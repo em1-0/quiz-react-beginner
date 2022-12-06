@@ -1,11 +1,11 @@
 import Result from "./Result"
 import Game from "./Game";
-import { quests } from "./QuestionList";
+import { questions_list } from "./QuestionList";
 import MyToggle from "./MyToggle";
 
 export {
-    Result, 
+    Result,
     Game,
-    quests,
+    questions_list,
     MyToggle
 }
